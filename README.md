@@ -2,7 +2,7 @@
 
 Full Stack Developer
 
-* 👨‍💻  Crafting practical web apps and tools
+* 👨‍💻  Building cool web apps
 * 🌱  Perpetually learning
 * 💬  Always open to collaborate and connect
 <!--
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-### My Tech Toolkit
+### My Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwindcss,prisma,postgres,aws" />

@@ -1,10 +1,5 @@
 ### Hi there 👋 I'm Burhan
 
-Full Stack Developer
-
-* 👨‍💻  Building cool web apps
-* 🌱  Perpetually learning
-* 💬  Always open to collaborate and connect
 <!--
 **burhan-syed/burhan-syed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,16 +21,15 @@ Here are some ideas to get you started:
 
 <br/>
 
+<!-- 
 ### My Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwindcss,prisma,postgres,aws" />
   </a>
 </p>
+-->
 
-<br/>
-
-### Some Stats
 | <a href="https://github-readme-stats.vercel.app/api?username=burhan-syed&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true"><img height="195" align="center" src="https://github-readme-stats.vercel.app/api?username=burhan-syed&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Burhan's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=burhan-syed&layout=compact&theme=transparent&hide_border=true"><img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhan-syed&layout=compact&theme=transparent&hide_border=true" /></a> |
 | ------------- | ------------- |  
 

@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/burhan-syed/)](https://www.linkedin.com/in/burhan-syed/)
-[![Gmail](https://img.shields.io/badge/email%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:bursyed@gmail.com)](mailto:bursyed@gmail.com)
-[![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/burhan-syed)](https://github.com/burhan-syed)
 
 <br/>
 
